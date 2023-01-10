@@ -1,4 +1,4 @@
 # NiceRepo
 
 
-code added from vscode
+code added from vscode.conflct
